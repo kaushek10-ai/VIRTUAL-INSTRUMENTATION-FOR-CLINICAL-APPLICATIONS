@@ -23,7 +23,6 @@ To find the maximum and minimum values (and their indices) from an array using L
 ---
 
 ##  Front Panel Layout
-<img width="976" height="984" alt="image" src="https://github.com/user-attachments/assets/420e1c1b-34d3-49ce-9acb-aed53a7338b5" />
 
 
 <img width="645" height="468" alt="image" src="https://github.com/user-attachments/assets/19aabe3c-1153-4497-bc6f-24a3a6d58d0d" />
@@ -37,8 +36,7 @@ To find the maximum and minimum values (and their indices) from an array using L
 
 ## Output
 
-<img width="1920" height="1200" alt="VICAEXP6" src="https://github.com/user-attachments/assets/3bbcc109-9e5d-4e1e-8f1c-6a43e5981133" />
-
+<img width="1917" height="1136" alt="image" src="https://github.com/user-attachments/assets/52fa7a9b-bb8e-4501-93cc-8c990a390b42" />
 ##  Result
 
 Hence the maximum and minimum values of the array along with their indices were successfully displayed using LabVIEW.
